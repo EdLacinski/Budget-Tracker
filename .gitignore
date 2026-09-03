@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+*.local
+*.backup.json
+monthly-money-backup-*.json
+.DS_Store
+Thumbs.db
+playwright-report/
+test-results/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
